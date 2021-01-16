@@ -1,7 +1,7 @@
 # About Me
 👋 My name is Saad, and I work as a Software Engineer. In my free time I work on my personal projects but I also work as a freelancer and have built products for several startups using Django, GraphQL, and Java. I also work on a number of other open source projects, mostly in the JavaScript and TypeScript ecosystems. 
 
-When I am not working, you will find me 🏀  or  🥊 
+When I am not working, you will usally find me 🥊  or 🏀  
 
 # Goals for 2021
 + Understand more convoluted concepts in the realm of backend developement. 
