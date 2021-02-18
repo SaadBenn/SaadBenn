@@ -1,7 +1,7 @@
 <p><img src=https://komarev.com/ghpvc/?username=saadbenn alt=Saad/></p>
 
 # About Me
-👋 My name is Saad, and I work as a Software Engineer. I like building things and teams. I am largely interested in distributed systems and devops. I also work as a freelancer and have contributed to products for several startups, mostly in the NodeJS, GraphQl and TypeScript ecosystems. Aside from that, I have over 2 years of experience as a Teaching Assistant for CS courses. I believe solving problems > design > coding > languages & frameworks.
+👋 My name is Saad, and I work as a Software Engineer. I like building things and teams. I am largely interested in distributed systems and devops. Aside from my day job as a SWE, I also work as a freelancer and have contributed to products for several startups, mostly in the NodeJS, GraphQL and TypeScript ecosystems. I also love teaching and have over 2 years of experience as a Teaching Assistant for CS courses. I believe solving problems > design > coding > languages & frameworks.
 
 When I am not working, you will find me boxing or hooping or meeting new people and sharing perspective.  🥊 🏀  
 
