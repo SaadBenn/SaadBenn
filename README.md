@@ -1,9 +1,9 @@
 <p><img src=https://komarev.com/ghpvc/?username=saadbenn alt=Saad/></p>
 
 # About Me
-👋 My name is Saad, and I work as a Software Engineer. I like building things and teams. I am largely interested in distributed systems and devops. Aside from my day job as a SWE, I also work as a freelancer and have contributed to products for several startups, mostly in the NodeJS, GraphQL and TypeScript ecosystems. I also love teaching and have over 2 years of experience as a Teaching Assistant for CS courses. I believe solving problems > design > coding > languages & frameworks.
+👋 My name is Saad, and I work as a Software Engineer. I like building things and teams. I am largely interested in distributed systems and devops. Aside from my day job as a SWE, I also work as a freelancer and have contributed to products for several startups, mostly in the NodeJS, GraphQL, TypeScript and Golang ecosystems. I also love teaching and have over 2 years of experience as a Teaching Assistant for CS courses. I believe solving problems > design > coding > languages & frameworks.
 
-I try to spend most of my time with my family but when I am not with them, you will find me boxing or hooping or meeting new people and sharing perspectives.  🥊 🏀  
+I try to spend most of my time with my family but when I am not with them, you will find me boxing or hooping.  🥊 🏀  
 
 # Goals for 2021
 + Delve more into the convoluted concepts of Backend developement and Site Reliability Engineering (SRE). 
