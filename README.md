@@ -5,11 +5,10 @@
 
 I try to spend most of my time with my family but when I am not with them, you will find me boxing or hooping.  🥊 🏀  
 
-# Goals for 2021
+# Goals for 2022
 + Delve more into the convoluted concepts of Backend developement and Site Reliability Engineering (SRE). 
 + Work on architectural designs and data intensive applications. 
 + Contribute to more open source projects that I use. I want to contribute to all the main parts of my tech stack.
-+ Travel more and visit friends I've made through open source in the Bay Area, Toronto, Seattle, Vancouver, Winnipeg, Kuala Lumpur, and Los Angeles. 
 
 # Get in Touch
 Want to discuss any of my open source projects, or to chat about sports, or just AMA? Send me a direct message on [Twitter](https://twitter.com/mooesaad).  
